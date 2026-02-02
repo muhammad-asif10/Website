@@ -1,0 +1,64 @@
+body {
+  background-color: rgb(245, 242, 239);
+  /* background-image: url('star.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%,100%; 
+   font-display: auto; */
+}
+
+img {
+  align-items: center;
+  position: relative;
+}
+
+h1 {
+  border-color: aqua;
+  color: white;
+
+}
+
+p {
+  color: white;
+}
+
+blockquote {
+  color: white;
+}
+
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+table,
+th,
+td {
+  border: 1px solid black 
+  border-radius: 10px
+}
+
+th,
+td {
+  background-color: #96D4D4;
+  padding: 10px;
+}
