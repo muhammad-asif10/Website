@@ -9,11 +9,17 @@ h1{
   align-items: center;
   justify-content: center;
 }
+#Website_icon{
+  display:grid;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20px; 
+}
 img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 100px; /* Setting a width is important */
+  width: 70px; /* Setting a width is important */
 }
 
 a{
