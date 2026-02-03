@@ -9,6 +9,12 @@ h1{
   align-items: center;
   justify-content: center;
 }
+
+button{
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
 #Website_icon{
   display:grid;
   margin-left: auto;
@@ -42,35 +48,4 @@ div h2{
 }
 div p{
   background-color: antiquewhite;
-
-a:link {
-  color: green;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:visited {
-  color: pink;
-  background-color: transparent;
-  text-decoration: none;
-}
-
-a:hover {
-  color: red;
-  background-color: transparent;
-  text-decoration: underline;
-}
-
-a:active {
-  color: yellow;
-  background-color: transparent;
-  text-decoration: underline;
-}
-.city {
-  background-color: tomato;
-  color: white;
-  border: 2px solid black;
-  margin: 20px;
-  padding: 20px;
-}
 }
