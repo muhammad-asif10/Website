@@ -9,12 +9,17 @@ h1{
   justify-content: center;
 }
 #builds{
-  border-style: outset;
-  width: 1335px;
-  height: 35px;
+  border-top-style:dashed;
+  border-right-style:dotted;
+  border-left-style: double;
+  border-bottom-style: groove;
+  height: 25px;
+  margin-right: 450px;
+  margin-left: 390px;
   align-items: center;
   display: flex;
   justify-content: center;
+  color: #ff5722;
 }
 #gfind{
   color: red;
